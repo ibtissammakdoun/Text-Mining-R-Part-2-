@@ -1,0 +1,13 @@
+How does a commercial bank forecast the expected performance of their loan portfolio?
+Or how does an investment manager estimate a stock portfolio’s risk?
+Which are the quantitative methods used to predict real-estate properties?
+If there is some time dependency, then you know it - the answer is: time series analysis.
+This course will teach you the practical skills that would allow you to land a job as a quantitative finance analyst, a data analyst or a data scientist.
+In no time, you will acquire the fundamental skills that will enable you to perform complicated time series analysis directly applicable in practice. We have created a time series course that is not only timeless but also:
+· Easy to understand
+· Comprehensive
+· Practical
+· To the point
+· Packed with plenty of exercises and resources
+But we know that may not be enough.
+We take the most prominent tools and implement them through Python – the most popular programming language right now. With that in mind
